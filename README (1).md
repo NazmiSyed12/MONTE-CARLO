@@ -1,5 +1,7 @@
 # Portfolio Optimization
 
+**Author:** Nazmi Syed · B.S.–M.S. Exploration Geophysics, IIT Kharagpur
+
 This project performs portfolio optimization aimed at maximizing the Sharpe Ratio using historical stock data. It leverages Modern Portfolio Theory (MPT) to identify the optimal asset allocation and employs Monte Carlo simulations to estimate Value at Risk (VaR).
 
 ## Features
